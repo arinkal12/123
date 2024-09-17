@@ -1,0 +1,3 @@
+C:/Users/evgen/Desktop/прога 2 курс/дз/xxcvdxn/build/CMakeFiles/main.dir
+C:/Users/evgen/Desktop/прога 2 курс/дз/xxcvdxn/build/CMakeFiles/edit_cache.dir
+C:/Users/evgen/Desktop/прога 2 курс/дз/xxcvdxn/build/CMakeFiles/rebuild_cache.dir

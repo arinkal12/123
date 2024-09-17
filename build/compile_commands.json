@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/evgen/Desktop/прога 2 курс/дз/xxcvdxn/build",
+  "command": "C:\\w64devkit\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\evgen\\Desktop\\прога 2 курс\\дз\\xxcvdxn\\main.cpp\"",
+  "file": "C:\\Users\\evgen\\Desktop\\прога 2 курс\\дз\\xxcvdxn\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
